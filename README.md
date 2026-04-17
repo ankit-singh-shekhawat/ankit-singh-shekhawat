@@ -12,6 +12,7 @@ Fresher with hands-on experience in data analysis and cloud computing. Skilled i
 * **Data Visualization:** Power BI
 * **Spreadsheets:** MS Excel (Pivot Tables, VLOOKUP, Charts)
 * **Databases:** SQL (Joins, Aggregations, Subqueries)
+* **Networking Fundamental:** OSI Model, TCP/IP ModelIP Addressing, Subnetting Network Protocols: HTTP, HTTPS, DNS
 * **Programming:** Python
 
 ---
