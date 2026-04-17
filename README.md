@@ -27,7 +27,7 @@ Fresher with hands-on experience in data analysis and cloud computing. Skilled i
 * Monitored resource usage and applied basic cost optimization practices
 * Hosted a static website using S3
 
-🔗 **GitHub:** (link)
+🔗 **GitHub:** (www.petlelo.com)
 
 ---
 
