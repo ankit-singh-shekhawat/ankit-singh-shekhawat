@@ -1,12 +1,8 @@
 # 👋 Hi, I'm Ankit Singh
 
-### Computer Science Undergraduate | Data Analyst & Cloud Enthusiast | AWS • SQL • Power BI • Python
+### Computer Science Undergraduate | Data ,Cloud & Network Enthusiast | AWS • SQL • Power BI • Python
 
 Fresher with hands-on experience in data analysis and cloud computing. Skilled in analyzing business data, building dashboards, and deploying cloud infrastructure using AWS. Passionate about leveraging data and cloud technologies to solve real-world problems.
-
----
-
-⭐ Open to Data Analyst, Cloud Engineer, and AWS Cloud Support roles
 
 ---
 
