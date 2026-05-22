@@ -1,70 +1,67 @@
 # 👋 Hi, I'm Ankit Singh
+### Computer Science Undergraduate | Data Analyst | Python • SQL • Power BI
 
-### Computer Science Undergraduate | Data |  • SQL • Power BI • Python
-
-Fresher with hands-on experience in data analysis. Skilled in analyzing business data, building dashboards, and deploying cloud infrastructure using AWS. Passionate about leveraging data and cloud technologies to solve real-world problems.
+A data analyst fresher with hands-on experience building business dashboards, exploring predictive models, and deploying cloud infrastructure. Passionate about transforming raw data into actionable business insights.
 
 ---
 
 ## 🛠 Technical Skills
 
-* **Data Visualization:** Power BI
-* **Spreadsheets:** MS Excel (Pivot Tables, VLOOKUP, Charts)
-* **Databases:** SQL (Joins, Aggregations, Subqueries)
-* **Networking Fundamental:** OSI Model, TCP/IP ModelIP Addressing, Subnetting Network Protocols: HTTP, HTTPS, DNS
-* **Programming:** Python
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Data Visualization** | Power BI, MS Excel (Pivot Tables, VLOOKUP, Advanced Charts) |
+| **Programming & ML** | Python, Pandas, NumPy, Scikit-Learn |
+| **Databases** | SQL (Joins, Aggregations, Subqueries, Windows Functions) |
+| **Cloud & Infrastructure** | AWS (EC2, S3, IAM, VPC), Static Web Hosting |
+| **Networking Fundamentals** | OSI Model, TCP/IP, IP Addressing, Subnetting, HTTP/S, DNS |
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-### 🔹 AWS Cloud Deployment Project
+### 🔹 Machine Learning
 
-* Deployed and managed cloud infrastructure using AWS (EC2, S3, IAM, VPC)
-* Configured secure access using IAM roles and policies
-* Created and configured VPC with subnets and security groups
-* Monitored resource usage and applied basic cost optimization practices
-* Hosted a static website using S3
-
-🔗 **GitHub:** (www.petlelo.com)
+#### 🟢 Titanic Survival Prediction (Python & ML Fundamentals)
+* **What it does:** Predicts passenger survival rates using classification algorithms based on demographics (age, gender) and socio-economic status (ticket class).
+* **Skills shown:** Data cleaning, exploratory data analysis (EDA) with Pandas, Logistic Regression, and Scikit-Learn evaluation metrics.
+* 📦 **Repo Link:** [Titanic-survival](https://github.com)
 
 ---
 
-### 🔹 Pharma Dashboard (Power BI)
+### 🔹 Data Visualization & Analytics
 
-* Analyzed pharmaceutical sales data to identify revenue trends and top-performing products
-* Built interactive Power BI dashboards for business insights
+#### 💊 Pharmaceutical Sales & Analytics Dashboard (Power BI & Python)
+* **What it does:** Transforms raw sales data from a global manufacturer into interactive dashboards tracking sales trends, distributor effectiveness, and sales team KPIs.
+* **Skills shown:** Data preprocessing with Python, custom DAX measures, Star Schema data modeling, and multi-page dashboard UI/UX design.
+* 📦 **Repo Link:** [pharma-dashboard](https://github.com/ankit-singh-shekhawat/pharma-dashboard)
 
-🔗 **GitHub:** https://github.com/ankit-singh-shekhawat/pharma-dashboard
+#### 🚗 Car Sales Dashboard (Power BI & Excel)
+* **What it does:** Compares sales performance data between premium automotive brands (BMW vs. Audi) using interactive KPIs and region-based mapping.
+* **Skills shown:** Executive summary page layouts, interactive navigation buttons, performance benchmarking, and data storytelling.
+* 📦 **Repo Link:** [Car-dashboard](https://github.com/ankit-singh-shekhawat/Car-dashboard)
 
 ---
 
-### 🔹 Car Sales Dashboard
+### 🔹 Cloud Infrastructure
 
-* Analyzed car sales performance by model and region
-* Identified high-performing segments using data visualization
-
-🔗 **GitHub:** https://github.com/ankit-singh-shekhawat/Car-dashboard
+#### ☁️ AWS Cloud Deployment Project
+* **What it does:** Provisioned and managed secure cloud infrastructure to host public static web assets.
+* **Skills shown:** AWS (EC2, S3, IAM, VPC), configuring subnets and security groups, access policies, and basic cost optimization.
+* 📦 **Website Link:** [www.petlelo.com](http://petlelo.com)
 
 ---
 
 ## 🎓 Education
-
-**B.Tech – Computer Science (Internet of Things)**
-Gurugram University
-
----
+* **B.Tech – Computer Science (Internet of Things)** | Gurugram University
 
 ## 📜 Certifications
-
-* Google Analytics Certification – Google Skillshop
-* Data Visualization – Tata (Forage)
+* **Google Analytics Certification** – Google Skillshop
+* **Data Visualization** – Tata (Forage Job Simulation)
 
 ---
 
-## 📬 Contact
-
-* 📍 Gurugram, India
-* 📧 Email: [ankitsingh97174@gmail.com](mailto:ankitsingh97174@gmail.com)
-* 🔗 LinkedIn: https://www.linkedin.com/in/ankit-singh-shekhawat
-
+## 📬 Connect With Me
+* 📍 **Location:** Gurugram, India
+* 📧 **Email:** ankitsingh97174@gmail.com
+* 💼 **LinkedIn:** [linkedin.com/in/ankit-singh-shekhawat](https://www.linkedin.com/in/ankit-singh-shekhawat)
